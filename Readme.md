@@ -42,7 +42,7 @@ Take a moment to review the project structure:
 ---
 ## Updated Submission Guidelines
 
-1. Fill out the form provided at [this link](https://forms.gle/MxuzmExHGXBh3hVk8).
+1. Fill out the form provided at [this link](https://forms.gle/Ubnfd2LGGHgwGorp6).
 2. Provide the GitHub repository link of your project in the designated field.
 3. Share the hosted link of your project in the appropriate field.
 
